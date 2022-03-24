@@ -4,6 +4,10 @@ A new generation get simple cms axcora tech for develope website project powerfu
 
 No need a database for installation , make your website very fast and SEO friendly.
 
+[Test Drive Demo →](https://axcora.com/getaxcoracms/demo/clasicstrap/)
+
+Test Drive Demo 2 With Blog mode : [https://rakminimarket.web.app →](https://rakminimarket.web.app/)
+
 Freemium simple clean and fast with flatfile cms
 --
 ![free website template clean bootstrap gratis](web.jpg)
