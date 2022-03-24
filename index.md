@@ -10,17 +10,17 @@ Test Drive Demo 2 With Blog mode : [https://rakminimarket.web.app →](https://r
 
 Freemium simple clean and fast with flatfile cms
 --
-![free website template clean bootstrap gratis](web.jpg)
+![free website template clean bootstrap gratis](https://github.com/mesinkasir/clasic-clean-bootstrap/blob/main/web.jpg)
 
 ------
 
 Full display 
 
-![free website template clean bootstrap gratis](web.png)
+![free website template clean bootstrap gratis](https://github.com/mesinkasir/clasic-clean-bootstrap/blob/main/web.png)
 
 Home page
 
-![free website template clean bootstrap gratis](web1.png)
+![free website template clean bootstrap gratis](https://github.com/mesinkasir/clasic-clean-bootstrap/blob/main/web1.png)
 
 Other page
 
